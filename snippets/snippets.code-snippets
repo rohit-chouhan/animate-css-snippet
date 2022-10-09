@@ -1,0 +1,681 @@
+{
+	"bounce Animate.css": {
+		"prefix": "acss__bounce",
+		"body": [
+			"animate__animated animate__bounce animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__bounce"
+	},
+	"flash Animate.css": {
+		"prefix": "acss__flash",
+		"body": [
+			"animate__animated animate__flash animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__flash"
+	},
+	"pulse Animate.css": {
+		"prefix": "acss__pulse",
+		"body": [
+			"animate__animated animate__pulse animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__pulse"
+	},
+	"rubberBand Animate.css": {
+		"prefix": "acss__rubberBand",
+		"body": [
+			"animate__animated animate__rubberBand animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__rubberBand"
+	},
+	"shakeX Animate.css": {
+		"prefix": "acss__shakeX",
+		"body": [
+			"animate__animated animate__shakeX animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__shakeX"
+	},
+	"shakeY Animate.css": {
+		"prefix": "acss__shakeY",
+		"body": [
+			"animate__animated animate__shakeY animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__shakeY"
+	},
+	"headShake Animate.css": {
+		"prefix": "acss__headShake",
+		"body": [
+			"animate__animated animate__headShake animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__headShake"
+	},
+	"swing Animate.css": {
+		"prefix": "acss__swing",
+		"body": [
+			"animate__animated animate__swing animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__swing"
+	},
+	"tada Animate.css": {
+		"prefix": "acss__tada",
+		"body": [
+			"animate__animated animate__tada animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__tada"
+	},
+	"wobble Animate.css": {
+		"prefix": "acss__wobble",
+		"body": [
+			"animate__animated animate__wobble animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__wobble"
+	},
+	"jello Animate.css": {
+		"prefix": "acss__jello",
+		"body": [
+			"animate__animated animate__jello animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__jello"
+	},
+	"heartBeat Animate.css": {
+		"prefix": "acss__heartBeat",
+		"body": [
+			"animate__animated animate__heartBeat animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__heartBeat"
+	},
+	"backInDown Animate.css": {
+		"prefix": "acss__backInDown",
+		"body": [
+			"animate__animated animate__backInDown animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__backInDown"
+	},
+	"backInLeft Animate.css": {
+		"prefix": "acss__backInLeft",
+		"body": [
+			"animate__animated animate__backInLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__backInLeft"
+	},
+	"backInRight Animate.css": {
+		"prefix": "acss__backInRight",
+		"body": [
+			"animate__animated animate__backInRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__backInRight"
+	},
+	"backInUp Animate.css": {
+		"prefix": "acss__backInUp",
+		"body": [
+			"animate__animated animate__backInUp animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__backInUp"
+	},
+	"backOutDown Animate.css": {
+		"prefix": "acss__backOutDown",
+		"body": [
+			"animate__animated animate__backOutDown animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__backOutDown"
+	},
+	"backOutLeft Animate.css": {
+		"prefix": "acss__backOutLeft",
+		"body": [
+			"animate__animated animate__backOutLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__backOutLeft"
+	},
+	"backOutRight Animate.css": {
+		"prefix": "acss__backOutRight",
+		"body": [
+			"animate__animated animate__backOutRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__backOutRight"
+	},
+	"backOutUp Animate.css": {
+		"prefix": "acss__backOutUp",
+		"body": [
+			"animate__animated animate__backOutUp animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__backOutUp"
+	},
+	"bounceIn Animate.css": {
+		"prefix": "acss__bounceIn",
+		"body": [
+			"animate__animated animate__bounceIn animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__bounceIn"
+	},
+	"bounceInDown Animate.css": {
+		"prefix": "acss__bounceInDown",
+		"body": [
+			"animate__animated animate__bounceInDown animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__bounceInDown"
+	},
+	"bounceInLeft Animate.css": {
+		"prefix": "acss__bounceInLeft",
+		"body": [
+			"animate__animated animate__bounceInLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__bounceInLeft"
+	},
+	"bounceInRight Animate.css": {
+		"prefix": "acss__bounceInRight",
+		"body": [
+			"animate__animated animate__bounceInRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__bounceInRight"
+	},
+	"bounceInUp Animate.css": {
+		"prefix": "acss__bounceInUp",
+		"body": [
+			"animate__animated animate__bounceInUp animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__bounceInUp"
+	},
+	"bounceOut Animate.css": {
+		"prefix": "acss__bounceOut",
+		"body": [
+			"animate__animated animate__bounceOut animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__bounceOut"
+	},
+	"bounceOutDown Animate.css": {
+		"prefix": "acss__bounceOutDown",
+		"body": [
+			"animate__animated animate__bounceOutDown animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__bounceOutDown"
+	},
+	"bounceOutLeft Animate.css": {
+		"prefix": "acss__bounceOutLeft",
+		"body": [
+			"animate__animated animate__bounceOutLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__bounceOutLeft"
+	},
+	"bounceOutRight Animate.css": {
+		"prefix": "acss__bounceOutRight",
+		"body": [
+			"animate__animated animate__bounceOutRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__bounceOutRight"
+	},
+	"bounceOutUp Animate.css": {
+		"prefix": "acss__bounceOutUp",
+		"body": [
+			"animate__animated animate__bounceOutUp animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__bounceOutUp"
+	},
+	"fadeIn Animate.css": {
+		"prefix": "acss__fadeIn",
+		"body": [
+			"animate__animated animate__fadeIn animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeIn"
+	},
+	"fadeInDown Animate.css": {
+		"prefix": "acss__fadeInDown",
+		"body": [
+			"animate__animated animate__fadeInDown animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeInDown"
+	},
+	"fadeInDownBig Animate.css": {
+		"prefix": "acss__fadeInDownBig",
+		"body": [
+			"animate__animated animate__fadeInDownBig animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeInDownBig"
+	},
+	"fadeInLeft Animate.css": {
+		"prefix": "acss__fadeInLeft",
+		"body": [
+			"animate__animated animate__fadeInLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeInLeft"
+	},
+	"fadeInLeftBig Animate.css": {
+		"prefix": "acss__fadeInLeftBig",
+		"body": [
+			"animate__animated animate__fadeInLeftBig animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeInLeftBig"
+	},
+	"fadeInRight Animate.css": {
+		"prefix": "acss__fadeInRight",
+		"body": [
+			"animate__animated animate__fadeInRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeInRight"
+	},
+	"fadeInRightBig Animate.css": {
+		"prefix": "acss__fadeInRightBig",
+		"body": [
+			"animate__animated animate__fadeInRightBig animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeInRightBig"
+	},
+	"fadeInUp Animate.css": {
+		"prefix": "acss__fadeInUp",
+		"body": [
+			"animate__animated animate__fadeInUp animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeInUp"
+	},
+	"fadeInUpBig Animate.css": {
+		"prefix": "acss__fadeInUpBig",
+		"body": [
+			"animate__animated animate__fadeInUpBig animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeInUpBig"
+	},
+	"fadeInTopLeft Animate.css": {
+		"prefix": "acss__fadeInTopLeft",
+		"body": [
+			"animate__animated animate__fadeInTopLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeInTopLeft"
+	},
+	"fadeInTopRight Animate.css": {
+		"prefix": "acss__fadeInTopRight",
+		"body": [
+			"animate__animated animate__fadeInTopRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeInTopRight"
+	},
+	"fadeInBottomLeft Animate.css": {
+		"prefix": "acss__fadeInBottomLeft",
+		"body": [
+			"animate__animated animate__fadeInBottomLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeInBottomLeft"
+	},
+	"fadeInBottomRight Animate.css": {
+		"prefix": "acss__fadeInBottomRight",
+		"body": [
+			"animate__animated animate__fadeInBottomRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeInBottomRight"
+	},
+	"fadeOut Animate.css": {
+		"prefix": "acss__fadeOut",
+		"body": [
+			"animate__animated animate__fadeOut animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeOut"
+	},
+	"fadeOutDown Animate.css": {
+		"prefix": "acss__fadeOutDown",
+		"body": [
+			"animate__animated animate__fadeOutDown animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeOutDown"
+	},
+	"fadeOutDownBig Animate.css": {
+		"prefix": "acss__fadeOutDownBig",
+		"body": [
+			"animate__animated animate__fadeOutDownBig animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeOutDownBig"
+	},
+	"fadeOutLeft Animate.css": {
+		"prefix": "acss__fadeOutLeft",
+		"body": [
+			"animate__animated animate__fadeOutLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeOutLeft"
+	},
+	"fadeOutLeftBig Animate.css": {
+		"prefix": "acss__fadeOutLeftBig",
+		"body": [
+			"animate__animated animate__fadeOutLeftBig animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeOutLeftBig"
+	},
+	"fadeOutRight Animate.css": {
+		"prefix": "acss__fadeOutRight",
+		"body": [
+			"animate__animated animate__fadeOutRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeOutRight"
+	},
+	"fadeOutRightBig Animate.css": {
+		"prefix": "acss__fadeOutRightBig",
+		"body": [
+			"animate__animated animate__fadeOutRightBig animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeOutRightBig"
+	},
+	"fadeOutUp Animate.css": {
+		"prefix": "acss__fadeOutUp",
+		"body": [
+			"animate__animated animate__fadeOutUp animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeOutUp"
+	},
+	"fadeOutUpBig Animate.css": {
+		"prefix": "acss__fadeOutUpBig",
+		"body": [
+			"animate__animated animate__fadeOutUpBig animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeOutUpBig"
+	},
+	"fadeOutTopLeft Animate.css": {
+		"prefix": "acss__fadeOutTopLeft",
+		"body": [
+			"animate__animated animate__fadeOutTopLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeOutTopLeft"
+	},
+	"fadeOutTopRight Animate.css": {
+		"prefix": "acss__fadeOutTopRight",
+		"body": [
+			"animate__animated animate__fadeOutTopRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeOutTopRight"
+	},
+	"fadeOutBottomRight Animate.css": {
+		"prefix": "acss__fadeOutBottomRight",
+		"body": [
+			"animate__animated animate__fadeOutBottomRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeOutBottomRight"
+	},
+	"fadeOutBottomLeft Animate.css": {
+		"prefix": "acss__fadeOutBottomLeft",
+		"body": [
+			"animate__animated animate__fadeOutBottomLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__fadeOutBottomLeft"
+	},
+	"flip Animate.css": {
+		"prefix": "acss__flip",
+		"body": [
+			"animate__animated animate__flip animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__flip"
+	},
+	"flipInX Animate.css": {
+		"prefix": "acss__flipInX",
+		"body": [
+			"animate__animated animate__flipInX animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__flipInX"
+	},
+	"flipInY Animate.css": {
+		"prefix": "acss__flipInY",
+		"body": [
+			"animate__animated animate__flipInY animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__flipInY"
+	},
+	"flipOutX Animate.css": {
+		"prefix": "acss__flipOutX",
+		"body": [
+			"animate__animated animate__flipOutX animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__flipOutX"
+	},
+	"flipOutY Animate.css": {
+		"prefix": "acss__flipOutY",
+		"body": [
+			"animate__animated animate__flipOutY animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__flipOutY"
+	},
+	"lightSpeedInRight Animate.css": {
+		"prefix": "acss__lightSpeedInRight",
+		"body": [
+			"animate__animated animate__lightSpeedInRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__lightSpeedInRight"
+	},
+	"lightSpeedInLeft Animate.css": {
+		"prefix": "acss__lightSpeedInLeft",
+		"body": [
+			"animate__animated animate__lightSpeedInLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__lightSpeedInLeft"
+	},
+	"lightSpeedOutRight Animate.css": {
+		"prefix": "acss__lightSpeedOutRight",
+		"body": [
+			"animate__animated animate__lightSpeedOutRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__lightSpeedOutRight"
+	},
+	"lightSpeedOutLeft Animate.css": {
+		"prefix": "acss__lightSpeedOutLeft",
+		"body": [
+			"animate__animated animate__lightSpeedOutLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__lightSpeedOutLeft"
+	},
+	"rotateIn Animate.css": {
+		"prefix": "acss__rotateIn",
+		"body": [
+			"animate__animated animate__rotateIn animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__rotateIn"
+	},
+	"rotateInDownLeft Animate.css": {
+		"prefix": "acss__rotateInDownLeft",
+		"body": [
+			"animate__animated animate__rotateInDownLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__rotateInDownLeft"
+	},
+	"rotateInDownRight Animate.css": {
+		"prefix": "acss__rotateInDownRight",
+		"body": [
+			"animate__animated animate__rotateInDownRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__rotateInDownRight"
+	},
+	"rotateInUpLeft Animate.css": {
+		"prefix": "acss__rotateInUpLeft",
+		"body": [
+			"animate__animated animate__rotateInUpLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__rotateInUpLeft"
+	},
+	"rotateInUpRight Animate.css": {
+		"prefix": "acss__rotateInUpRight",
+		"body": [
+			"animate__animated animate__rotateInUpRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__rotateInUpRight"
+	},
+	"rotateOut Animate.css": {
+		"prefix": "acss__rotateOut",
+		"body": [
+			"animate__animated animate__rotateOut animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__rotateOut"
+	},
+	"rotateOutDownLeft Animate.css": {
+		"prefix": "acss__rotateOutDownLeft",
+		"body": [
+			"animate__animated animate__rotateOutDownLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__rotateOutDownLeft"
+	},
+	"rotateOutDownRight Animate.css": {
+		"prefix": "acss__rotateOutDownRight",
+		"body": [
+			"animate__animated animate__rotateOutDownRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__rotateOutDownRight"
+	},
+	"rotateOutUpLeft Animate.css": {
+		"prefix": "acss__rotateOutUpLeft",
+		"body": [
+			"animate__animated animate__rotateOutUpLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__rotateOutUpLeft"
+	},
+	"rotateOutUpRight Animate.css": {
+		"prefix": "acss__rotateOutUpRight",
+		"body": [
+			"animate__animated animate__rotateOutUpRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__rotateOutUpRight"
+	},
+	"hinge Animate.css": {
+		"prefix": "acss__hinge",
+		"body": [
+			"animate__animated animate__hinge animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__hinge"
+	},
+	"jackInTheBox Animate.css": {
+		"prefix": "acss__jackInTheBox",
+		"body": [
+			"animate__animated animate__jackInTheBox animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__jackInTheBox"
+	},
+	"rollIn Animate.css": {
+		"prefix": "acss__rollIn",
+		"body": [
+			"animate__animated animate__rollIn animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__rollIn"
+	},
+	"rollOut Animate.css": {
+		"prefix": "acss__rollOut",
+		"body": [
+			"animate__animated animate__rollOut animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__rollOut"
+	},
+	"zoomIn Animate.css": {
+		"prefix": "acss__zoomIn",
+		"body": [
+			"animate__animated animate__zoomIn animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__zoomIn"
+	},
+	"zoomInDown Animate.css": {
+		"prefix": "acss__zoomInDown",
+		"body": [
+			"animate__animated animate__zoomInDown animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__zoomInDown"
+	},
+	"zoomInLeft Animate.css": {
+		"prefix": "acss__zoomInLeft",
+		"body": [
+			"animate__animated animate__zoomInLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__zoomInLeft"
+	},
+	"zoomInRight Animate.css": {
+		"prefix": "acss__zoomInRight",
+		"body": [
+			"animate__animated animate__zoomInRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__zoomInRight"
+	},
+	"zoomInUp Animate.css": {
+		"prefix": "acss__zoomInUp",
+		"body": [
+			"animate__animated animate__zoomInUp animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__zoomInUp"
+	},
+	"zoomOut Animate.css": {
+		"prefix": "acss__zoomOut",
+		"body": [
+			"animate__animated animate__zoomOut animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__zoomOut"
+	},
+	"zoomOutDown Animate.css": {
+		"prefix": "acss__zoomOutDown",
+		"body": [
+			"animate__animated animate__zoomOutDown animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__zoomOutDown"
+	},
+	"zoomOutLeft Animate.css": {
+		"prefix": "acss__zoomOutLeft",
+		"body": [
+			"animate__animated animate__zoomOutLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__zoomOutLeft"
+	},
+	"zoomOutRight Animate.css": {
+		"prefix": "acss__zoomOutRight",
+		"body": [
+			"animate__animated animate__zoomOutRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__zoomOutRight"
+	},
+	"zoomOutUp Animate.css": {
+		"prefix": "acss__zoomOutUp",
+		"body": [
+			"animate__animated animate__zoomOutUp animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__zoomOutUp"
+	},
+	"slideInDown Animate.css": {
+		"prefix": "acss__slideInDown",
+		"body": [
+			"animate__animated animate__slideInDown animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__slideInDown"
+	},
+	"slideInLeft Animate.css": {
+		"prefix": "acss__slideInLeft",
+		"body": [
+			"animate__animated animate__slideInLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__slideInLeft"
+	},
+	"slideInRight Animate.css": {
+		"prefix": "acss__slideInRight",
+		"body": [
+			"animate__animated animate__slideInRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__slideInRight"
+	},
+	"slideInUp Animate.css": {
+		"prefix": "acss__slideInUp",
+		"body": [
+			"animate__animated animate__slideInUp animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__slideInUp"
+	},
+	"slideOutDown Animate.css": {
+		"prefix": "acss__slideOutDown",
+		"body": [
+			"animate__animated animate__slideOutDown animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__slideOutDown"
+	},
+	"slideOutLeft Animate.css": {
+		"prefix": "acss__slideOutLeft",
+		"body": [
+			"animate__animated animate__slideOutLeft animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__slideOutLeft"
+	},
+	"slideOutRight Animate.css": {
+		"prefix": "acss__slideOutRight",
+		"body": [
+			"animate__animated animate__slideOutRight animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__slideOutRight"
+	},
+	"slideOutUp Animate.css": {
+		"prefix": "acss__slideOutUp",
+		"body": [
+			"animate__animated animate__slideOutUp animate__${1|slow,slower,fast,faster|} animate__${2|repeat-1,repeat-2,repeat-3,infinite|} animate__${3|delay-1s,delay-2s,delay-3s,delay-4s,delay-5s|}"
+		],
+		"description": "animate__slideOutUp"
+	}
+}
